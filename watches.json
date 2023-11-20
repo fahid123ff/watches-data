@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Watch Active 222",
+    "display": "Super AMOLED",
+    "batteryLife": "Up to 2 days",
+    "features": ["Heart Rate Monitoring", "ECG", "Wireless Charging"],
+    "price": "$249.99"
+  },
+  {
+    "brand": "Garmin",
+    "model": "Forerunner 945",
+    "display": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+    "batteryLife": "Up to 14 days",
+    "features": ["GPS", "Music Storage", "Advanced Running Dynamics"],
+    "price": "$599.99"
+  },
+  {
+    "brand": "Apple",
+    "model": "Watch SE",
+    "display": "Retina LTPO OLED",
+    "batteryLife": "Up to 18 hours",
+    "features": ["Fitness Tracking", "Fall Detection", "Family Setup"],
+    "price": "$279.99"
+  },
+  {
+    "brand": "Huawei",
+    "model": "Watch Fit",
+    "display": "AMOLED",
+    "batteryLife": "Up to 10 days",
+    "features": ["SpO2 Monitoring", "Built-in GPS", "Stress Tracking"],
+    "price": "$129.99"
+  },
+  {
+    "brand": "Fitbit",
+    "model": "Versa 3",
+    "display": "AMOLED",
+    "batteryLife": "Up to 6 days",
+    "features": ["Built-in GPS", "Active Zone Minutes", "Voice Assistant"],
+    "price": "$229.95"
+  }
+]
